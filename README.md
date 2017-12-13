@@ -3,4 +3,4 @@ test
   - feature-A
   - fix-B
   - feature- C
-  - feature-D-2
+  - feature-D-1,2
